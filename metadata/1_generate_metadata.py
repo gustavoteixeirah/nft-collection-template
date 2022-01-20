@@ -26,7 +26,7 @@ print("Soma dos developers: ", sum(developer_weights))
 print("Soma dos beverages", sum(beverages_weights))
 
 # Define o total de NFTs a ser gerada
-TOTAL_NFTs = 2
+TOTAL_NFTs = 100
 
 nfts_attributes = []
 
