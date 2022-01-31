@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "KryptoDeveloper #1",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 1,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #2",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 2,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #3",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 3,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #4",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 4,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #5",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 5,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #6",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 6,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #7",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 7,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #8",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 8,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #9",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 9,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #10",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 10,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #11",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 11,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #12",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 12,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #13",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 13,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #14",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 14,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #15",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 15,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #16",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 16,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #17",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 17,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #18",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 18,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #19",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 19,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #20",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 20,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #21",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 21,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #22",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 22,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #23",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 23,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #24",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 24,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #25",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 25,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #26",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 26,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #27",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 27,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #28",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 28,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #29",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 29,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #30",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 30,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #31",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 31,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #32",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 32,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #33",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 33,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #34",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 34,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #35",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 35,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #36",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 36,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #37",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 37,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #38",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 38,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Protein Shake"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #39",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 39,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #40",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 40,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #41",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 41,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #42",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 42,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #43",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 43,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #44",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 44,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #45",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 45,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #46",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 46,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #47",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 47,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #48",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 48,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #49",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 49,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #50",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 50,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #51",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 51,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #52",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 52,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #53",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 53,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #54",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 54,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #55",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 55,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #56",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 56,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #57",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 57,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #58",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 58,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #59",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 59,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #60",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 60,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #61",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 61,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #62",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 62,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #63",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 63,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #64",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 64,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #65",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 65,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #66",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 66,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #67",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 67,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #68",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 68,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #69",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 69,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #70",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 70,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #71",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 71,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #72",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 72,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #73",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 73,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #74",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 74,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #75",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 75,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #76",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 76,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #77",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 77,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #78",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 78,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #79",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 79,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #80",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 80,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #81",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 81,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Protein Shake"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #82",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 82,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #83",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 83,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #84",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 84,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #85",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 85,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #86",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 86,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #87",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 87,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Protein Shake"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #88",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 88,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Tower"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #89",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 89,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #90",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 90,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Tea"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #91",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 91,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Office"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #92",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 92,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Juice"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #93",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 93,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Julien"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Coffee"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #94",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 94,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #95",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 95,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "V"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #96",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 96,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Tea"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #97",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 97,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Company"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Gustavo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #98",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 98,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Energetic"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #99",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 99,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Renan"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "Soda"
+            }
+        ]
+    },
+    {
+        "name": "KryptoDeveloper #100",
+        "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+        "tokenId": 100,
+        "external_url": "https://www.kryptodevelopers.dev/",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Kitchen"
+            },
+            {
+                "trait_type": "Developer",
+                "value": "Marcelo"
+            },
+            {
+                "trait_type": "Beverage",
+                "value": "None"
+            }
+        ]
+    }
+]
